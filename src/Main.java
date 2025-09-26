@@ -22,7 +22,7 @@ public class EjerciciosIfElse {
         if(edad>25){
             System.out.println("Es mayor de 25 años");
         }else{
-            System.out.println("Esmenor de 25 años");
+            System.out.println("Es menor de 25 años");
         }
     }
     
